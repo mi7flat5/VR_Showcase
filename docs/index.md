@@ -6,7 +6,9 @@
 <p>The setting is in a factory with 5 exibits, each of which have simple puzzles or intesting ways of interacting with the environment.</p> 
 </div>
 
-![description](\OverView.jpg)
+<div align ="center">
+<img src="OverView.jpg">
+</div>
 
  <div align ="center">
 <iframe width="800" height="600"
