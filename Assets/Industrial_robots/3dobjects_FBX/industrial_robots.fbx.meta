@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: 73e1b54cba4c6b94ea8d6219157846fb
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    4300000: Mesh
+    4300002: Mesh
+    4300004: Mesh
+    4300006: Mesh
+    4300008: Mesh
+    4300010: Mesh
+    4300012: Mesh
+    4300014: Mesh
+    4300016: Mesh
+    4300018: Mesh
+    4300020: Mesh
+    4300022: Mesh
+    4300024: Mesh
+    4300026: 'industrial_robots [base '
+    4300028: 'industrial_robots [arm1_rotator '
+    4300030: 'industrial_robots [weight_arm '
+    4300032: 'industrial_robots [arm1 '
+    4300034: 'industrial_robots [arm2 '
+    4300036: 'industrial_robots [arm2_front_rotator '
+    4300038: industrial_robots [screwdriver]
+    4300040: 'industrial_robots [base '
+    4300042: 'industrial_robots [arm1_rotator '
+    4300044: 'industrial_robots [weight_arm '
+    4300046: 'industrial_robots [arm1 '
+    4300048: 'industrial_robots [arm2 '
+    4300050: industrial_robots [welding_gun]
+    4300052: industrial_robots [welding_gun_arm1]
+    4300054: industrial_robots [welding_gun_arm2]
+    4300056: 'industrial_robots [base '
+    4300058: 'industrial_robots [arm1_rotator '
+    4300060: 'industrial_robots [weight_arm '
+    4300062: 'industrial_robots [arm1 '
+    4300064: 'industrial_robots [arm2 '
+    4300066: 'industrial_robots [arm2_front_rotator '
+    4300068: 'industrial_robots [holder '
+    4300070: industrial_robots [vacuum_holder1]
+    4300072: 'industrial_robots [base '
+    4300074: 'industrial_robots [arm1_rotator '
+    4300076: 'industrial_robots [weight_arm '
+    4300078: 'industrial_robots [arm1 '
+    4300080: 'industrial_robots [arm2 '
+    4300082: 'industrial_robots [arm2_front_rotator '
+    4300084: 'industrial_robots [holder '
+    4300086: industrial_robots [vacuum_holder2]
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 43
+    normalImportMode: 1
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

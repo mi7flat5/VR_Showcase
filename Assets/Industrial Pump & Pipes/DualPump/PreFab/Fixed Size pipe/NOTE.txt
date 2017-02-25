@@ -1,0 +1,6 @@
+These pipes will not match if scaled only in the Y direction, the flanges will not be the right size (thicker or thinner)
+
+Normal 1 scale pipe is 10meters flange tip to flange tip the half scale pipe is 5 meters tip to tip, 
+I didn't make a 2x  scale one but if you do it will be 20meters
+
+If you want different lengths , use a normal pipe and scale to your length and add the flanges /bolts and make a prefab
