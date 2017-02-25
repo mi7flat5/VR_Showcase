@@ -12,7 +12,7 @@
 
  <div align ="center">
 <iframe width="800" height="600"
-src="tour.mp4">
+src="Tour.mp4">
 </iframe>
 </div>
 
