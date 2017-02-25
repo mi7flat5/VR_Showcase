@@ -9,10 +9,11 @@
 
 
  <div align ="center">
-<iframe width="640" height="360"
+<iframe width="700" height="500"
 src="Tour.mp4">
 </iframe>
 </div>
+<div><br></div>
 <div align ="center">
 <img src="OverView.jpg">
 </div>
