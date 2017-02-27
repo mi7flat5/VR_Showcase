@@ -1,10 +1,7 @@
 # VR_Showcase
 
 This project uses Google Carboard SDK 1.2. 
-Currrently I'm using the Occulus MovieSample.cs script to run videos in textures, it currently does not function on iOS. 
-
-I've muted the Android media player through a call into JNI from the MovieSample.cs, and am using a GvrAudioSource for spatial audio. You will need to comment calls to audioEmitter in the android build section of that script as well as commenting the call into JNI mediaplayer setVolume method.  
-
+I'm using the Occulus MovieSample.cs script to run videos in textures, it currently does not function on iOS. 
 
 Most of my scripts are in the main Assets folder. Scripts for assets should be in their respective folders, and have liscense info at top, though I have added to or fixed bugs in almost all of them.
 
