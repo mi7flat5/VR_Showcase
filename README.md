@@ -9,6 +9,6 @@ The first three areas have small puzzles. The origional idea was that you had to
 
 The project is in the unimaginatively named main.unity scene. 
 
-<p>Check out the project page <a href="https://mi7flat5.github.io/VR_Showcase/">Here</a></p>
+<p>Check out the project page <a href="https://shane-harmon.com">Here</a></p>
 ![](docs/OverView.jpg)
 
